@@ -1,2 +1,3 @@
 # mapgen
-Map generation testing (5x5)
+## trying to get working map generator for any size of grid w/ customizable amount of rooms
+
